@@ -51,7 +51,7 @@ print(z)
 #y = "orange"
 #z = "mango"
 
-x , y , z = "apple", "orange", "mango"
+x, y, z = "apple", "orange", "mango"
 
 print(x)
 print(y)
