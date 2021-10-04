@@ -16,3 +16,12 @@ Object : Member of a class
 Smartphone, laptop, Tv ----> Electronics
 
 car, bike , Auto ------> Vehicles
+
+
+
+Object ---> Properties , Methods
+
+Car --> Name, Color, Price --> [Properties]
+Car --> Start(), Run(), Stop() -->  [Methods]
+
+
