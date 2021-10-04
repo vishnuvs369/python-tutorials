@@ -5,3 +5,14 @@ This is Python tutorials
  2) Tuple -- immutable
  3) Set  -- unordered
  4) Dictionary
+
+
+
+# OOPS Concept
+
+Class : Blueprint of object
+Object : Member of a class
+
+Smartphone, laptop, Tv ----> Electronics
+
+car, bike , Auto ------> Vehicles
