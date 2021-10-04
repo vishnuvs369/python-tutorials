@@ -25,3 +25,8 @@ Car --> Name, Color, Price --> [Properties]
 Car --> Start(), Run(), Stop() -->  [Methods]
 
 
+# Inheritance
+
+parent ---> child
+
+parent Class---> child Class
